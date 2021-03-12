@@ -3,4 +3,9 @@ Anastasia Wyatt
 
 First comment
 
-This is a change on newbranch
+<<<<<<< HEAD
+This is a change on newbranch, testbranch change
+
+=======
+
+>>>>>>> main
